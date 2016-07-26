@@ -1,0 +1,7 @@
+{
+  "globalDevDependencies": {
+    "node": "registry:dt/node#6.0.0+20160621231320",
+    "react": "registry:dt/react#0.14.0+20160621225615",
+    "webpack": "registry:dt/webpack#1.12.9+20160523035535"
+  }
+}

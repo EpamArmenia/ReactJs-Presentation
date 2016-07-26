@@ -1,0 +1,15 @@
+input{
+    /*height: 40px;*/
+}
+
+.toCenterAbsolute{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.toCenter{
+    text-align: center;
+    color: red;
+}

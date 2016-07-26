@@ -1,0 +1,7 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div id="app" asp-prerender-module="ClientApp/boot-server.jsx" asp-prerender-webpack-config="webpack.config.js"></div>
+@section scripts {
+    <script src="~/bundle.js"></script>
+}
